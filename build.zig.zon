@@ -1,0 +1,17 @@
+.{
+    .name = .signal_visualizer,
+    .version = "0.0.0",
+    .fingerprint = 0x20424b621bca0c51,
+    .minimum_zig_version = "0.16.0-dev.2535+b5bd49460",
+    .dependencies = .{
+        .raylib = .{
+            .url = "git+https://github.com/raysan5/raylib#4ebe7d62159257cae48d47afd4d8ce2ecf0afb6e",
+            .hash = "raylib-5.6.0-dev-whq8uGZQIwWJGhAJBf94TRZHPHrvKfS3ZLegQv81CHsx",
+        },
+    },
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
