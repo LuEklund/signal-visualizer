@@ -1,4 +1,0 @@
-0
-134210 59649749 1771961278929168725 e4a14f9756ee25b7505c678a1525933a 0 /home/lucas/Projects/signal-visualizer/zig-pkg/raylib-5.6.0-dev-whq8uGZQIwWJGhAJBf94TRZHPHrvKfS3ZLegQv81CHsx/src/raylib.h
-899 58743919 1771786635052740286 9171157f92533dccf625196b070a29bb 1 compiler/aro/include/stdarg.h
-187 58743921 1771786635052740286 d552c8396df53738062bb3dbca131e74 1 compiler/aro/include/stdbool.h
